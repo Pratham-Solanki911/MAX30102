@@ -1,0 +1,27 @@
+.
+# Syntax Coloring Map For MAX30102 Library
+# Define the keywords and function names for Arduino IDE highlighting
+
+# Datatypes (KEYWORD1)
+MAX30102          KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin             KEYWORD2
+readIR            KEYWORD2
+processSensorData KEYWORD2
+isValidSignal     KEYWORD2
+detectHeartRate   KEYWORD2
+getBPM            KEYWORD2
+getAvgBPM         KEYWORD2
+
+# Constants (LITERAL1)
+MAX30102_ADDRESS  LITERAL1
+REG_INTR_STATUS_1 LITERAL1
+REG_INTR_ENABLE_1 LITERAL1
+REG_FIFO_WR_PTR   LITERAL1
+REG_FIFO_RD_PTR   LITERAL1
+REG_FIFO_DATA     LITERAL1
+REG_MODE_CONFIG   LITERAL1
+REG_SPO2_CONFIG   LITERAL1
+REG_LED1_PA       LITERAL1
+REG_LED2_PA       LITERAL1
