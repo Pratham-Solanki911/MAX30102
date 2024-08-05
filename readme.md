@@ -1,4 +1,4 @@
-# MAX30102 Arduino Library
+# MAX30102 ESP Library
 
 The `MAX30102` Arduino library provides an easy-to-use interface for the MAX30102 pulse oximeter and heart rate sensor. This library allows you to initialize the sensor, read IR values, process sensor data, and detect heart rates with customizable filtering.
 
